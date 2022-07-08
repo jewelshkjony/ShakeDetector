@@ -1,4 +1,4 @@
-# ShakeDetector
+# ShakeDetector Extension
 An extension to detect device shake for Kodular, Niotron, App Inventor and it's other distributions.
 
 <img src="https://raw.githubusercontent.com/jewelshkjony/ShakeDetector/main/image.png"/>
