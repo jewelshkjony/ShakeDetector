@@ -17,10 +17,10 @@ Last amendment: 07 July 2022\
 Supported builder: Kodular, Niotron, App Inventor and it's other distributions.
 
 ### Contact with me ---------------
-Facebook: https://fb.com/jewelshkjony/ \
-Telegram: https://t.me/jewelshkjony/ \
-WhatsApp: https://wa.me/8801775668913/ \
-Messenger: https://m.me/jewelshkjony/
+Facebook: https://fb.com/jewelshkjony \
+Telegram: https://t.me/jewelshkjony \
+WhatsApp: https://wa.me/8801775668913 \
+Messenger: https://m.me/jewelshkjony
 
 #### Purchase this extension via ---
 TransferWise: https://wise.com/invite/ua/dulald4 \
