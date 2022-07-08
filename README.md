@@ -10,7 +10,7 @@ An extension to detect device shake for Kodular, Niotron, App Inventor and it's 
 <ul>This event will triggered when your device is shaked. Use this event to do something when device is shaked.</ul>
 
 ## Extension specifications:
-com.jewel.shakedetector(8 KB)\
+<a href="https://github.com/jewelshkjony/ShakeDetector/blob/main/com.jewel.shakedetector.aix?raw=true">com.jewel.shakedetector</a>(19.3 KB) \
 Version: 1.0.3\
 Price: $5 USD (400 Taka only for Bangladeshi)\
 Last amendment: 07 July 2022\
